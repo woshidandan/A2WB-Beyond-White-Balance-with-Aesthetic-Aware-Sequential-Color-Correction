@@ -18,6 +18,8 @@ Anonymous Institution
 
 A²WB reformulates automatic white balance as a sequential aesthetic-aware color correction problem. A lightweight policy network iteratively selects one of six pixel-level refinement actions (No-op, Denoise, Enhance, Colder AWB, Warmer AWB, Low-light enhancement) guided by a joint fidelity–aesthetic objective. This repository provides code for stage-two training, single-image inference, and an environment/model smoke test.
 
+
+
 <p align="center">
   <img src="assets/a2wb-overview.png" width="96%" alt="A²WB overview">
 </p>
